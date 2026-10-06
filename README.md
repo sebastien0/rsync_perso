@@ -1,4 +1,4 @@
-# rsync
+# rsync_perso
 Perso - rsync et google Drive
 
 
