@@ -2,6 +2,9 @@
 Perso - rsync et google Drive
 
 
+Application personnelle rclone_perso d'accès à mon propre Google Drive. Aucune donnée n'est collectée, stockée ou partagée.
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pulvinar a ante at suscipit. Donec eget massa porta, lacinia leo in, tincidunt neque. Donec dolor diam, pretium ut nibh id, consectetur tempor metus. Nulla facilisi. Nullam in congue purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque vitae turpis tincidunt, vehicula ligula et, tempus nulla. Aenean a vestibulum tortor, et ornare nulla. Mauris rutrum mi at leo lacinia, ac laoreet diam imperdiet.
 
 Aenean rutrum efficitur enim ut condimentum. Nam a arcu in diam convallis vestibulum. Duis viverra risus in neque vulputate, nec finibus massa cursus. Etiam quis nulla consectetur, sodales nulla a, ornare velit. Donec ultrices tristique massa id condimentum. Aliquam eros purus, efficitur nec nisl ut, sodales placerat est. Sed nec posuere tortor. Donec varius enim non leo consequat varius. Nam tincidunt ultricies venenatis. Curabitur dictum in enim quis dapibus.
